@@ -3,7 +3,7 @@ package com.example.myfirstapp;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extenivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
